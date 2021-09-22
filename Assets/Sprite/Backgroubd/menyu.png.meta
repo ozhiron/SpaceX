@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: fd010c943764a4e8d965962ad5e03b08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4630974542117510749
+    second: menyu_0
+  - first:
+      213: -3945912651705646215
+    second: menyu_1
+  - first:
+      213: -1001923907391989835
+    second: menyu_2
+  - first:
+      213: -3261475031133742914
+    second: menyu_3
+  - first:
+      213: -7385227005802842124
+    second: menyu_4
+  - first:
+      213: -6026420913146087345
+    second: menyu_5
+  - first:
+      213: 10355308091804942
+    second: menyu_6
+  - first:
+      213: -6536425318355405948
+    second: menyu_7
+  - first:
+      213: 3498608254847381518
+    second: menyu_8
+  - first:
+      213: -7427628963820657888
+    second: menyu_9
+  - first:
+      213: -3430063605908624545
+    second: menyu_10
+  - first:
+      213: -1835084564322715360
+    second: menyu_11
+  - first:
+      213: 5361305427715550271
+    second: menyu_12
+  - first:
+      213: 8560779226186394477
+    second: menyu_13
+  - first:
+      213: -7887896627337642428
+    second: menyu_14
+  - first:
+      213: -3062196906457282997
+    second: menyu_15
+  - first:
+      213: -4463114044329410732
+    second: menyu_16
+  - first:
+      213: -4093464657317367201
+    second: menyu_17
+  - first:
+      213: 363478920558820070
+    second: menyu_18
+  - first:
+      213: -5150444689870162113
+    second: menyu_19
+  - first:
+      213: 5242213289910749852
+    second: menyu_20
+  - first:
+      213: -8020470592885321926
+    second: menyu_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menyu_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4840
+        width: 6058
+        height: 3788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82e07c9e404a4ece96fc28935eb3235
+      internalID: -4630974542117510749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_1
+      rect:
+        serializedVersion: 2
+        x: 6095
+        y: 8256
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06307e3733ff4468e9026a53705c3df1
+      internalID: -3945912651705646215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_2
+      rect:
+        serializedVersion: 2
+        x: 6443
+        y: 4834
+        width: 6043
+        height: 3780
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4214f133c934e80966337894531b9f
+      internalID: -1001923907391989835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_3
+      rect:
+        serializedVersion: 2
+        x: 12486
+        y: 6984
+        width: 21
+        height: 1701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05ae5b1cd0f14cdc97853baf46b1089
+      internalID: -3261475031133742914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_4
+      rect:
+        serializedVersion: 2
+        x: 12481
+        y: 8237
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c2c8f640dc7470d971463e92b8546f
+      internalID: -7385227005802842124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_5
+      rect:
+        serializedVersion: 2
+        x: 6098
+        y: 7002
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64768a57f1a14912a36ed792d740ceb
+      internalID: -6026420913146087345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_6
+      rect:
+        serializedVersion: 2
+        x: 6104
+        y: 6972
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcb8f496209c411582b9c6d0bcc2f7b
+      internalID: 10355308091804942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_7
+      rect:
+        serializedVersion: 2
+        x: 12492
+        y: 6954
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08f000bb25ef40f89885ea467fef91a
+      internalID: -6536425318355405948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_8
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 4822
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d8272e8441343d99fc25d85aff387a
+      internalID: 3498608254847381518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_9
+      rect:
+        serializedVersion: 2
+        x: 7472
+        y: 4804
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d6d590da3304000a3860fec4302eef
+      internalID: -7427628963820657888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 828
+        width: 6044
+        height: 3778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60af35c8bbbe43af9036cf7eddaff16
+      internalID: -3430063605908624545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_11
+      rect:
+        serializedVersion: 2
+        x: 6095
+        y: 4231
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48edd36c8efb45d4b39d933a2eec994
+      internalID: -1835084564322715360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_12
+      rect:
+        serializedVersion: 2
+        x: 6443
+        y: 813
+        width: 6020
+        height: 3766
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f38960ea93d48e5997e52a3242d2fc
+      internalID: 5361305427715550271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_13
+      rect:
+        serializedVersion: 2
+        x: 12486
+        y: 2959
+        width: 21
+        height: 1702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17506df5926348ef87626b2a5cbd59b
+      internalID: 8560779226186394477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_14
+      rect:
+        serializedVersion: 2
+        x: 12481
+        y: 4212
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfb1bb85085d4a478598021c3f36c20
+      internalID: -7887896627337642428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_15
+      rect:
+        serializedVersion: 2
+        x: 6098
+        y: 2978
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f38445dba9e4dbb91f66c454cadf43
+      internalID: -3062196906457282997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_16
+      rect:
+        serializedVersion: 2
+        x: 6104
+        y: 2947
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb192e934b3540f6b36fdfbcde85bd9
+      internalID: -4463114044329410732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_17
+      rect:
+        serializedVersion: 2
+        x: 12492
+        y: 2929
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f0de0d47bce47af9d269fa5159bbb4
+      internalID: -4093464657317367201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_18
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 797
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4487c8280b4e4655baf05bc3cb1f186
+      internalID: 363478920558820070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_19
+      rect:
+        serializedVersion: 2
+        x: 7472
+        y: 779
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0531abf117e0428785baccf796100d3
+      internalID: -5150444689870162113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_20
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 0
+        width: 3059
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f40b7fa3bf674e4ca183fcb68b61993
+      internalID: 5242213289910749852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menyu_21
+      rect:
+        serializedVersion: 2
+        x: 7778
+        y: 0
+        width: 3046
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea2bde036e64ae6afb9136552c71a4
+      internalID: -8020470592885321926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5cfb340eca6e24ee5a9bd34e331bf0a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
